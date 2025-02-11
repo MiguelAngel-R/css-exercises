@@ -1,0 +1,19 @@
+.impares{
+    background-color: coral;
+    font-family: Verdana, DejaVu, Sans, sans-serif;
+}
+
+.impares.variacion{
+    font-size: 25px;
+}
+
+#parUno{
+    font-size: 35px;
+    color: blue;
+}
+
+#parDos{
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
