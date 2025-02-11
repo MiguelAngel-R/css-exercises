@@ -1,0 +1,15 @@
+.contenedor1{
+    background-color: black;
+    color: white;
+}
+
+.contenedor2{
+    background-color: yellow;
+}
+
+.contenedor1,.contenedor2{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+    display: inline-block;
+    border: 2px solid grey;
+}
